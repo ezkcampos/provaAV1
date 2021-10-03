@@ -1,0 +1,4 @@
+class Corrida 
+    let posicao = []{
+        
+    }
